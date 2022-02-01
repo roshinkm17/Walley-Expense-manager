@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9460063974",
+    "project_id": "walley-expense",
+    "storage_bucket": "walley-expense.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9460063974:android:7d28df4f47392b0d45a527",
+        "android_client_info": {
+          "package_name": "com.roshinkm.walley.walley"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9460063974-qe3doodlqq3uger0h7379p01hues2fqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQNb8jqgejC4WEd8El4chFndfwo1c1h-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9460063974-qe3doodlqq3uger0h7379p01hues2fqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
